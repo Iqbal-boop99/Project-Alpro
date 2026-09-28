@@ -1,0 +1,9 @@
+REFLEKSI P1
+
+1. Compiler merupakan program yang mengubah kode sumber menjadi kode mesin terlebih dahulu sebelum program dijalankan. Berbeda dengan compiler, interpreter menerjemahkan kode sekaligus menjalankannya secara bertahap ketika program sedang berjalan.
+
+2. Dalam bidang Teknik Elektro, bahasa C banyak dimanfaatkan untuk membuat program pada mikrokontroler, seperti Arduino dan STM32. Bahasa C juga dapat digunakan pada sistem embedded untuk mengatur berbagai perangkat, contohnya sensor, motor, dan komponen elektronik lainnya.
+
+3. Fungsi main() berperan sebagai bagian utama sekaligus awal dari proses menjalankan program C. Apabila fungsi main() tidak tersedia, program tidak mempunyai titik awal eksekusi sehingga dapat menyebabkan error pada saat proses kompilasi atau linking.
+
+4. Penggunaan nama variabel yang jelas dan sesuai dengan fungsinya membuat kode program lebih mudah dipahami, dibaca, dan diperbaiki. Dalam program yang berkaitan dengan pengukuran teknik, penggunaan nama seperti tegangan, arus, dan suhu juga memudahkan kita mengetahui jenis data yang disimpan dalam setiap variabel.
